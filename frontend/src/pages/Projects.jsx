@@ -10,7 +10,7 @@ import ats4 from "../assets/ats4.png";
 const Projects = () => {
   const data = [
     {
-      title: "BeUpdated : News Aggregator",
+      title: "My Portfolio Website",
       content: (
         <div>
           <p className="mb-8 text-xs mozilla-headline-font font-bold text-neutral-800 md:text-xl dark:text-lime-500">
@@ -39,13 +39,13 @@ const Projects = () => {
             </p>
             <div className="mt-2 mb-2">
               <a
-                href="./projects"
+                href="https://github.com/shubhamprajapati18/Personal-Portfolio"
                 className="px-6 py-2 border-1 border-neutral-500 text-neutral-500 bg-transparent  transition-all duration-[200ms] hover:bg-white hover:text-black hover:-translate-y-2 transform"
               >
                 GitHub Repo →
               </a>
               <a
-                href="./projects"
+                href="/"
                 className="ml-5 px-6 py-2 border-1 border-neutral-500 text-neutral-500 bg-transparent  transition-all duration-[200ms] hover:bg-white hover:text-black hover:-translate-y-2 transform"
               >
                 Visit Website →

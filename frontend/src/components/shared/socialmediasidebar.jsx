@@ -12,7 +12,7 @@ const SocialMediaSidebar = () => {
   const links = [
     {
       icon: <FaSquareGithub className="w-8 h-8 text-neutral-950 hover:text-gray-700" />,
-      href: "https://www.linkedin.com/in/shubhamprajapati18/",
+      href: "https://github.com/shubhamprajapati18",
       label: "LinkedIn",
     },
     {

@@ -29,7 +29,7 @@ const Home = () => {
     "Data Science Enthusiast",
     "B.Tech CSE (Data Science) Student",
     "Full Stack Developer",
-    "Exploring Machine Learning",
+    "React Developer",
   ];
 
   return (
@@ -172,7 +172,7 @@ const Home = () => {
             <img
               src={projectHome2}
               alt="Portfolio Preview"
-              className="absolute right-0 sm:-right-4 md:-right-[5%] bottom-0 object-contain rounded-2xl w-[250px] sm:w-[350px] md:w-[500px]"
+              className="absolute right-0 sm:-right-4 md:-right-[5%] -bottom-5 object-contain rounded-2xl w-[250px] sm:w-[350px] md:w-[500px]"
             />
           </WobbleCard>
 
@@ -200,7 +200,7 @@ const Home = () => {
             <img
               src={projectHome1}
               alt="Skill Tool Preview"
-              className="absolute right-0 sm:-right-4 md:-right-[5%] bottom-0 object-contain rounded-2xl w-[250px] sm:w-[350px] md:w-[500px]"
+              className="absolute right-0 sm:-right-4 md:-right-[5%] -bottom-5 object-contain rounded-2xl w-[250px] sm:w-[350px] md:w-[500px]"
             />
           </WobbleCard>
         </div>
